@@ -11,8 +11,13 @@ function Navbar() {
             Home
           </Link>
         </li>
+      
         <li>
           <Link to="/predict" style={{ color: '#fff', textDecoration: 'none' }}>
+            Fish Predictor
+          </Link>
+        </li>  <li>
+          <Link to="/finder" style={{ color: '#fff', textDecoration: 'none' }}>
             Fish Predictor
           </Link>
         </li>
